@@ -1,9 +1,3 @@
-# msaccelerator
-Microsoft Sustainability Manager Accelerator for SAS Viya
-
-To do 
-
-
 # Microsoft Sustainability Manager Accelerator for SAS Viya
 
 ## Description
@@ -36,7 +30,7 @@ MSMA offers:
     and different scenario-analysis techniques can be used to anticipate
     future results
 
-Walk-through
+## Walk-through
 
 If you want to see what the MSMA does, click here to follow the
 walk-through the functionality.
@@ -47,7 +41,7 @@ can go to <https://www.microsoft.com/en-us/sustainability/cloud>
 For the generic functionality of SAS Viya, you can go to
 <https://www.sas.com/en_us/software/viya.html>
 
-Installation
+## Installation
 
 To use MSMA you need three different components:
 
