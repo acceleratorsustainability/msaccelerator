@@ -6,6 +6,8 @@ The Microsoft Sustainability Manager Accelerator for SAS Viya (MSMA) is
 a set of objects built on top of SAS Viya that complements the
 functionality that is available in Microsoft Sustainability Manager.
 
+Click [here](WhatIsIt.md) to get a more detailed explanation 
+
 The MSMA uses SAS Viya to access the data model of MSM, it enriches the
 data and provides a graphical user-friendly interface, based on a
 low-code/no-code platform to deliver advanced analytics. With MSMA users
@@ -32,8 +34,8 @@ MSMA offers:
 
 ## Walk-through
 
-If you want to see what the MSMA does, click here to follow the
-walk-through the functionality.
+If you want to see what the MSMA offers, click [here](WhatIsIt.md) to follow the
+different elements that the accelerator offers.
 
 For the generic functionality of Microsoft Sustainability Manager, you
 can go to <https://www.microsoft.com/en-us/sustainability/cloud>
